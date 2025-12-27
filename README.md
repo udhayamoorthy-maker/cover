@@ -162,13 +162,9 @@ Publish the website in the LocalHost.
     <!-- Footer Section -->
     <div class="footer">
       <div class="logo-box">PYTHON</div>
-      <div class="author-name">Dhivya Dharshini</div>
       
     </div>
 
-    <!-- Image inside the cover -->
-    <img class="photo" src="P2.png" > 
-    <img class="logoimg" src="pylogo.webp" > 
   </div>
 
 </body>
